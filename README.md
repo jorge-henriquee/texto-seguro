@@ -22,7 +22,7 @@ O app explora conceitos de criação de apps desktop modernos, otimização de b
 
 ## 💾 Instalação
 
-1. Acesse os [Releases do GitHub](https://github.com/seuusuario/texto-seguro/releases).  
+1. Acesse os [Releases do GitHub](https://github.com/jorge-henriquee/texto-seguro/releases/).  
 2. Baixe o arquivo `.exe` ou instalador `.msi`.  
 3. Execute e siga o assistente de instalação.
 
